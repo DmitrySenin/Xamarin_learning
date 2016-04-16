@@ -1,8 +1,7 @@
-﻿using System;
-using System.Text;
-
-namespace Core
+﻿namespace Core
 {
+    using System.Text;
+
     public static class PhonewordTranslator
     {
         public static string ToNumber(string raw)
